@@ -1,0 +1,2 @@
+import sm
+sm.ahmad()
